@@ -24,7 +24,7 @@ Aluno: Felipe Eduardo Gomes<br/><br/>
 	b) *Apresente as configurações do horizonte de aprendizagem, que é representado pela quantidade máxima de passos de tempo por episódios, quantidade máxima de episódios, e política de exploração ao longo do tempo;*<br/>
 	R: 
 	| num_episodes | epsilon |
-	|--|--|--|--|--| --|
+	|--|--|
 	| 500 | 0.05 |
 
 4. **Resultados Experimentais**  
