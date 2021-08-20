@@ -6,7 +6,7 @@ Aluno: Felipe Eduardo Gomes<br/><br/>
 
 1. **Modelagem do MDP:**  
 	*a) Apresente a modelagem de estados considerada, bem como a quantidade de estados presentes no MDP. Inclua na contagem os estados não válidos;*
-	R: **Os estados são as coordenadas x (colunas) e y (linhas) das células do mundo sendo 7 x 6 respectivamente. Os estados inválidos (agente não consegue transpor) são as coordenadas das células onde encontram-se as paredes (de tijolos no mundo Furbot).**
+	R: **Os estados são as coordenadas x (colunas) e y (linhas) das células do mundo sendo 7 x 6 respectivamente. Os estados inválidos (agente não consegue transpor) são as coordenadas das células onde encontram-se as paredes.**
 	
 	b) *Apresente a modelagem das ações que o agente pode executar;*
 	R: **O agente pode mover-se para CIMA, DIREITA, ABAIXO, ESQUERDA ou ainda permanecer na mesma posição (não se move), caso a posição que ele deveria andar confronta com uma parede ou borda do mundo.**
