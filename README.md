@@ -31,4 +31,5 @@ Aluno: Felipe Eduardo Gomes<br/><br/>
 4. **Resultados Experimentais**  
 	a) Apresente a curva de convergência, representada pela quantidade de passos (timesteps) necessários para resolver a tarefa ao longo do tempo (episódios).
 	R:
+	![](https://github.com/gomesfg/reinforcement_learning/blob/e40b637a7d387eba2bba011228cb3492f83eb739/curva_aprendizado.PNG?raw=true)
 	
